@@ -1,0 +1,57 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.temp{
+    width: 100%;
+    height: 2000px;
+
+}
+.yetho{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+
+}
+.yetho h1{
+    color: red;
+}
+.yetho span{
+    color: blue;
+}
+.one{
+    width: 100%;
+    height: 100vh;
+    background-color: aquamarine;
+    background-image: url(../image/carousel-1.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+.right{
+    width: 40%;
+    height: 500px;
+    /* background-color: green; */
+    float: left;
+   
+}
+.right1{
+    width: 80%;
+    height: 500px;
+    background-image: url(../image/carousel-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    float: right;
+}
+.left{
+    width: 60%;
+    height: 500px;
+    background-color: red;
+    float: right;
+  
+}
+.fa-person{
+color: black;
+}
